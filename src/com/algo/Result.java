@@ -9,11 +9,6 @@ import java.util.Arrays;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.table.DefaultTableModel;
-
-/**
- *
- * @author varun
- */
 public class Result extends javax.swing.JFrame {
 
    
